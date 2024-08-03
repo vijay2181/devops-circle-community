@@ -1,0 +1,36 @@
+✳ Kubernetes Interview Questions:✳
+-------------------------------------------
+
+1. Can you explain the architecture of Kubernetes❓
+
+2. Describe your experience managing containerized applications and services with Kubernetes❓
+
+3. How have you orchestrated container deployments and managed container lifecycles using Kubernetes, Include techniques for scaling, updating, and monitoring containers❓
+
+4. Discuss your methods for managing network and storage resources in Kubernetes, including configuring load balancers and persistent storage❓
+
+5. How have you managed configuration and secrets in Kubernetes, such as handling environment variables and securely storing sensitive information❓
+
+6. Describe your experience managing multi-tenant environments and resource allocation with Kubernetes, including the use of namespaces and quotas❓
+
+7. How have you implemented fault tolerance and disaster recovery in Kubernetes? Include techniques for managing backups and rolling updates❓
+
+8. Discuss your experience with service discovery and load balancing in Kubernetes, including the implementation of ingress controllers and service meshes❓
+
+9. How have you implemented security controls in Kubernetes, such as managing user permissions and network policies❓
+
+10. Explain how you have integrated Kubernetes with other tools or services, such as CI/CD pipelines or logging and monitoring platforms, to automate workflows and manage deployments❓
+
+11. How have you managed stateful applications and databases in Kubernetes, including the use of persistent storage and StatefulSets❓
+
+12. Describe your experience managing Kubernetes clusters, including automating cluster deployments and upgrades❓
+
+13. Explain your techniques for managing networking and storage resources in Kubernetes, including integration with external storage providers and load balancers❓
+
+14. Discuss your experience implementing security controls in Kubernetes, including user access management and network policies❓
+
+15. How have you optimized performance and managed resources for different types of workloads, such as batch processing jobs or machine learning workloads, in Kubernetes❓
+
+16. Explain your techniques for managing multiple clusters or hybrid cloud environments with Kubernetes, including workload portability and federation❓
+
+17. How have you managed and troubleshooted issues in production environments using Kubernetes? Include techniques for diagnosing and resolving performance or availability issues❓
