@@ -27,3 +27,60 @@
 26.How can you use Job DSL to automate the creation and configuration of Jenkins jobs?
 27.How would you configure a matrix build in Jenkins to test an application across multiple environments or configurations?
 28.What measures would you take to secure sensitive information within your Jenkins pipeline scripts?
+
+==============================
+
+
+💥Jenkins Scenario Based Questions💥
+--------------------------------------------
+
+1. Describe a scenario where you had to design a Jenkins pipeline for a multi-branch project. What were the challenges and how did you address them?
+
+2. How would you handle a situation where a Jenkins job fails intermittently? What steps would you take to diagnose and fix the issue?
+
+3. Describe a situation where you needed to manage sensitive credentials in Jenkins. How did you ensure they were secure?
+
+4. How do you implement "Pipeline as Code" in Jenkins? Provide an example of a Jenkinsfile for a simple CI/CD pipeline.
+
+5. How would you set up notifications in Jenkins for build failures? What methods would you use to inform the development team?
+
+6. Explain how you would chain multiple Jenkins jobs together. What plugins or configurations are necessary for this?
+
+7. How would you manage build artifacts in Jenkins? Describe a scenario where artifact management was critical to the project.
+
+8. In case of a failed deployment, how would you handle rollbacks using Jenkins? Describe your rollback strategy.
+
+9. Provide an example where you integrated Jenkins with other tools like Git, Docker, or Kubernetes. What challenges did you face?
+
+10. How would you secure a Jenkins installation? Discuss user roles, access controls, and other security best practices.
+
+11. Describe your approach to backup and recovery in Jenkins. What would you do to ensure minimal downtime?
+
+12. How would you optimize a Jenkins pipeline that is taking too long to execute? Provide specific strategies you would use.
+
+13. Explain how you can create a Jenkins job with dynamic parameters. Provide a use case where this is useful.
+
+14. How would you monitor Jenkins to ensure it is running smoothly? What tools or plugins would you use?
+
+15. How would you set up pipeline triggers based on external events, such as a new commit in a Git repository?
+
+16. Discuss how you use environment variables in Jenkins pipelines. Provide an example scenario.
+
+17. Describe a situation where you used matrix builds in Jenkins. What were the benefits?
+
+18. How do you pass parameters to Jenkins jobs? Give an example where parameterized jobs were essential.
+
+19. Explain how you configure agents in Jenkins. What factors do you consider when setting up an agent?
+
+20. How do you deploy artifacts to a production environment using Jenkins? Provide a detailed explanation.
+
+21. Explain how you integrate Jenkins with version control systems like Git or SVN. What are the best practices?
+
+22. How do you handle frequent build failures in Jenkins? Describe your troubleshooting process.
+
+23. How do you incorporate automated testing into your Jenkins pipeline? Provide an example setup.
+
+24. Describe a scenario where you used Groovy scripting in Jenkins. What problem did it solve and how?
+
+25. How would you set up Jenkins to comply with organizational or regulatory auditing requirements?
+
