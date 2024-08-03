@@ -1,0 +1,28 @@
+🔰Scenario-Based Git Interview Questions🔰
+1. You are in the middle of a merge and encounter a conflict. How would you resolve this conflict and complete the merge
+2. A teammate accidentally pushed a commit that breaks the build. How would you revert the changes made by this commit
+3. Your team follows Git Flow. Describe how you would create a feature branch and then merge it back into the develop branch once completed.
+4. Explain when you would use `git rebase` instead of `git merge` and vice versa.
+5. You find yourself in a detached HEAD state. How would you get back to your branch and ensure no changes are lost
+6. You need to switch branches, but you have uncommitted changes that you want to save. How would you use `git stash` to handle this
+7. How would you squash multiple commits into a single commit before merging to the main branch
+8. You realize that your last commit message has a typo. How would you amend the commit message?
+9. Describe how you would apply a specific commit from one branch to another using `git cherry-pick`.
+10. A bug is introduced between two commits. How would you use `git bisect` to find the commit that introduced the bug
+11. You are reviewing a pull request and find several issues. How would you provide feedback and request changes
+12. When is it appropriate to use `git push --force`, and what precautions should you take
+13. You have pushed several commits to a remote branch but now need to undo the last three commits. How would you do this
+14. How would you recover a commit that was accidentally deleted or orphaned
+15. Your project includes a Git submodule. Describe how you would initialize, update, and commit changes to the submodule
+16. Your repository has many old branches. How would you identify and delete branches that have already been merged
+17. Your repository has large binary files that bloat the history. How would you use Git LFS to manage these files
+18. How would you create and push a tag for a new release version of your software
+19. Describe how you would use `.gitignore` to exclude specific files or directories from being tracked by Git.
+20. How would you handle a scenario where multiple team members are working on the same file and frequently causing conflicts
+
+21. How would you integrate code review tools (like GitHub or GitLab) into your Git workflow
+22. Explain how you would set up a Git hook to run automated tests before allowing a commit.
+23. Describe a scenario where you would use a Git hook to enforce certain development policies.
+24. How would you temporarily check out a previous version of the code without creating a new branch
+25. How would you migrate an existing project from another version control system (e.g., SVN) to Git
+26. You accidentally committed sensitive information to the repository. How would you remove this data from the commit history
