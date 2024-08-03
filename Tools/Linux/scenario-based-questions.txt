@@ -1,0 +1,56 @@
+🔴 scenario-based Linux Interview questions 🔴 
+1. You need to provide read, write, and execute permissions to the owner, and only read permissions to the group and others for a file named `data.txt`. How would you do this
+
+2. Your server is experiencing high CPU usage. How would you identify the process consuming the most CPU and what steps would you take to mitigate the issue
+
+3.A server's root partition is almost full. Describe the steps you would take to free up space and prevent future occurrences
+
+4.Users are unable to access a web server hosted on your Linux machine. How would you diagnose and resolve the connectivity issue
+
+5.Your Linux server is failing to boot. What steps would you take to troubleshoot and resolve the issue
+
+6.A new user needs to be created with specific home directory settings and permissions. How would you accomplish this
+
+7.How would you find and analyze logs for a service that has been failing intermittently
+
+8.Describe how you would install, update, and remove software packages on a Linux system
+
+9.How would you find and terminate a process that is running out of control on a Linux server
+
+10.A scheduled cron job is not executing as expected. How would you troubleshoot and resolve this issue
+
+11.How would you enable SELinux and configure it to allow a specific application to run correctly
+
+12.How would you create a new file system on a partition and mount it automatically on boot
+
+13.Describe your approach to backing up important data and how you would restore it in case of data loss
+
+14.How would you set up an NFS server and client to share files between two Linux machines
+
+15.How would you configure SSH for secure access, including disabling root login and using key-based authentication
+
+16.How would you configure the firewall to allow only specific types of traffic to a Linux server
+
+17.A Linux server cannot resolve DNS names. How would you troubleshoot and fix this issue
+
+18.How would you load and unload kernel modules on a running Linux system
+
+19.Describe how you would set up and manage a software RAID array on a Linux server
+
+20.How would you configure network bonding for redundancy and increased throughput on a Linux server
+
+21.How would you set up and enforce disk quotas for users on a Linux server
+
+22.Describe the steps to create and manage logical volumes using LVM
+
+23.How would you set up monitoring for system performance and resource usage
+
+24.What steps would you take to secure a new Linux server
+
+25.How would you automate repetitive tasks using shell scripting or other automation tools
+
+26.How would you configure a Linux server to authenticate users against an LDAP directory
+
+27.Describe how you would set up and manage virtual machines on a Linux host using KVM or another virtualization technology
+
+28.How would you configure a high-availability cluster using tools like Pacemaker and Corosync
