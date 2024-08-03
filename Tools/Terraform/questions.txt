@@ -1,0 +1,40 @@
+🛡Terraform Backend, State Management, and State Locking top Questions🛡
+
+Terraform Backend 
+============
+1. What is a Terraform backend and why is it important❓
+2. How do you configure a remote backend in Terraform❓
+3. What are some common types of backends supported by Terraform❓
+4. Explain the process of migrating a local backend to a remote backend❓
+5. How does Terraform handle backend authentication and access control❓
+6. Can you use multiple backends in a single Terraform configuration? Explain❓
+7. What are the benefits of using a remote backend over a local backend❓
+8. How do you manage backend configurations securely in a team environment❓
+9. What happens if the backend service is unavailable when running `terraform apply`❓
+10. Describe how to use environment variables to configure backends in Terraform❓
+
+Terraform State Management
+===================
+11. What is Terraform state and what role does it play in infrastructure management❓
+12. How does Terraform determine the current state of your infrastructure❓
+13. Explain the difference between `terraform plan` and `terraform apply` in the context of state❓
+14. What is the purpose of the `.terraform` directory❓
+15. How do you handle state file conflicts in a team environment❓
+16. What are the best practices for managing Terraform state files securely❓
+17. How can you inspect and modify the Terraform state file manually❓
+18. What are state file locks and why are they important❓
+19. Explain how to use the `terraform state` command to manage state files❓
+20. How do you handle sensitive information stored in the Terraform state file❓
+
+Terraform State Locking
+===============
+21. What is state locking in Terraform and why is it necessary❓
+22. How does Terraform implement state locking with AWS S3 and DynamoDB❓
+23. What are the potential issues that can arise without state locking❓
+24. How do you configure state locking for a remote backend like Azure Storage❓
+25. Can you disable state locking in Terraform, Why or why not❓
+26. Explain how Terraform handles state locking conflicts and resolutions❓
+27. Describe a scenario where state locking prevented a critical issue in infrastructure management❓
+28. What are the benefits of using DynamoDB for state locking in AWS❓
+29. How can you manually unlock a state file if a lock is not released properly❓
+30. What strategies can you use to minimize the impact of state locking on deployment times❓
